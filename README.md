@@ -1,3 +1,5 @@
+Loreen Samaan
+
 ## Question 1
 1. Within a Github action that runs whenever code is pushed because automation testing requires scripts which are written to automatically test new and existing software based on certain events such as code getting pushed to the remote repository. Github action allows us to do this to make sure our code isn't running into any issues every time we add to it. Consistent testing is very important. 
 
